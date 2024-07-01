@@ -5,9 +5,15 @@
 - Me gusta el anime y manga 
 - Me gustan las peluculas de terror
 - Mis redes sociales:
-  - [Instagram]: https://www.instagram.com/ernesto_221104/
-  - [Facebook]: https://www.facebook.com/profile.php?id=100004142328623
-  - [Twitter]: https://x.com/LuisErne2211
-  - [Linkedin]: www.linkedin.com/in/luis-ernesto-gomez-martinez-350870300
+  - [Instagram][Instagram]
+  - [Facebook][Facebook]
+  - [Twitter][Twitter]
+  - [Linkedin][Linkedin]
 
  Gracias por leerme :3
+
+
+[Instagram]: https://www.instagram.com/ernesto_221104/
+[Facebook]: https://www.facebook.com/profile.php?id=100004142328623
+[Twitter]: https://x.com/LuisErne2211
+[Linkedin]: www.linkedin.com/in/luis-ernesto-gomez-martinez-350870300
