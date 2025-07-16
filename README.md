@@ -93,8 +93,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/LuisErnesto221104/LuisErnesto221104/output/snake.svg" alt="Snake animation" />
 
 ###
