@@ -91,11 +91,6 @@
   </a>
 </div>
 
-###
-
-<img src="https://raw.githubusercontent.com/LuisErnesto221104/LuisErnesto221104/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <a href="https://open.spotify.com/user/g8p4kov4vh4y7ssjlyzc8kef5">
